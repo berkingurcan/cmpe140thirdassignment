@@ -1,0 +1,228 @@
+name,value,region
+China,22526502000000,East Asia/Southeast Asia
+United States,20524945000000,North America
+India,9155083000000,South Asia
+Japan,5231066000000,East Asia/Southeast Asia
+Germany,4482448000000,Europe
+Russia,3968180000000,Central Asia
+Indonesia,3196682000000,East Asia/Southeast Asia
+United Kingdom,3118396000000,Europe
+France,3097061000000,Europe
+Brazil,3092216000000,South America
+Italy,2562135000000,Europe
+Mexico,2525481000000,North America
+Turkey,2371374000000,Middle East
+"Korea, South",2211315000000,East Asia/Southeast Asia
+Spain,1925576000000,Europe
+Canada,1843053000000,North America
+Saudi Arabia,1609323000000,Middle East
+Thailand,1285287000000,East Asia/Southeast Asia
+Australia,1264514000000,Australia - Oceania
+Poland,1261433000000,Europe
+Egypt,1180890000000,Africa
+Taiwan,1143277000000,East Asia/Southeast Asia
+Nigeria,1032048000000,Africa
+Iran,1027238000000,Middle East
+Pakistan,1015796000000,South Asia
+Argentina,991523000000,South America
+Netherlands,986847000000,Europe
+Philippines,963121000000,East Asia/Southeast Asia
+Malaysia,906239000000,East Asia/Southeast Asia
+Vietnam,775669000000,East Asia/Southeast Asia
+Bangladesh,775076000000,South Asia
+Colombia,741099000000,South America
+South Africa,730913000000,Africa
+United Arab Emirates,655789000000,Middle East
+Belgium,596414000000,Europe
+Switzerland,588472000000,Europe
+Romania,579549000000,Europe
+Singapore,555193000000,East Asia/Southeast Asia
+Sweden,547595000000,Europe
+Ukraine,538388000000,Europe
+Austria,498780000000,Europe
+Algeria,495564000000,Africa
+Kazakhstan,487868000000,Central Asia
+Chile,459134000000,South America
+Hong Kong,449299000000,East Asia/Southeast Asia
+Czechia,435987000000,Europe
+Ireland,428825000000,Europe
+Iraq,427736000000,Middle East
+Peru,417690000000,South America
+Israel,363448000000,Middle East
+Portugal,358344000000,Europe
+Norway,340303000000,Europe
+Denmark,336335000000,Europe
+Hungary,321869000000,Europe
+Greece,319334000000,Europe
+Sri Lanka,285141000000,South Asia
+Morocco,279295000000,Africa
+Burma,277909000000,East Asia/Southeast Asia
+Venezuela,269068000000,South America
+Finland,268662000000,Europe
+Qatar,255010000000,Middle East
+Ethiopia,248972000000,Africa
+Uzbekistan,235021000000,Central Asia
+Kenya,227638000000,Africa
+Angola,212285000000,Africa
+New Zealand,210877000000,Australia - Oceania
+Kuwait,209738000000,Middle East
+Dominican Republic,197735000000,Central America
+Ecuador,197631000000,South America
+Belarus,181286000000,Europe
+Slovakia,178513000000,Europe
+Sudan,168280000000,Africa
+Ghana,164640000000,Africa
+Bulgaria,161654000000,Europe
+Tanzania,149785000000,Africa
+Azerbaijan,144374000000,Middle East
+Guatemala,143416000000,Central America
+Cuba,137000000000,Central America
+Oman,135814000000,Middle East
+Cote d'Ivoire,134048000000,Africa
+Panama,133587000000,Central America
+Serbia,126625000000,Europe
+Tunisia,125783000000,Africa
+Croatia,116339000000,Europe
+Puerto Rico,110238000000,Central America
+Lithuania,103756000000,Europe
+Libya,102842000000,Africa
+Jordan,101738000000,Middle East
+Bolivia,100445000000,South America
+Lebanon,99761000000,Middle East
+Costa Rica,99146000000,Central America
+Nepal,97749000000,South Asia
+Uganda,96838000000,Africa
+"Congo, Democratic Republic of the",95291000000,Africa
+Cameroon,94248000000,Africa
+Paraguay,89362000000,South America
+Turkmenistan,86858000000,Central Asia
+Slovenia,81614000000,Europe
+Macau,79392000000,East Asia/Southeast Asia
+Afghanistan,78557000000,South Asia
+Uruguay,74638000000,South America
+Bahrain,73870000000,Middle East
+Yemen,73630000000,Middle East
+Cambodia,72356000000,East Asia/Southeast Asia
+Luxembourg,70966000000,Europe
+Zambia,61985000000,Africa
+Latvia,59102000000,Europe
+El Salvador,56636000000,Central America
+Laos,56110000000,East Asia/Southeast Asia
+Honduras,55825000000,Central America
+Georgia,55776000000,Middle East
+Senegal,55324000000,Africa
+Syria,50280000000,Middle East
+Bosnia and Herzegovina,49224000000,Europe
+Estonia,48987000000,Europe
+Mali,45637000000,Africa
+Madagascar,44419000000,Africa
+Burkina Faso,44266000000,Africa
+Zimbabwe,41533000000,Africa
+Botswana,40928000000,Africa
+Armenia,40384000000,Middle East
+"Korea, North",40000000000,East Asia/Southeast Asia
+Albania,39859000000,Europe
+Mongolia,39723000000,East Asia/Southeast Asia
+Mozambique,38910000000,Africa
+Benin,38794000000,Africa
+Papua New Guinea,38218000000,East Asia/Southeast Asia
+Trinidad and Tobago,36514000000,Central America
+Nicaragua,35392000000,Central America
+Cyprus,35353000000,Europe
+Moldova,34680000000,Europe
+North Macedonia,34333000000,Europe
+Kyrgyzstan,33918000000,Central Asia
+Haiti,32724000000,Central America
+Guinea,32720000000,Africa
+Gabon,32480000000,Africa
+Tajikistan,31502000000,Central Asia
+Mauritius,28947000000,Africa
+Jamaica,28779000000,Central America
+Niger,28544000000,Africa
+Rwanda,28118000000,Africa
+Brunei,26906000000,East Asia/Southeast Asia
+Chad,25190000000,Africa
+Equatorial Guinea,25164000000,Africa
+Namibia,24040000000,Africa
+Mauritania,23520000000,Africa
+Malta,22133000000,Europe
+West Bank,21220000000,Middle East
+Somalia,20440000000,Africa
+Kosovo,20396000000,Europe
+Iceland,20187000000,Europe
+South Sudan,20010000000,Africa
+"Congo, Republic of the",19763000000,Africa
+Malawi,19741000000,Africa
+"Bahamas, The",14450000000,Central America
+Sierra Leone,13425000000,Africa
+Montenegro,13357000000,Europe
+Togo,12904000000,Africa
+Fiji,12178000000,Australia - Oceania
+New Caledonia,11110000000,Australia - Oceania
+Maldives,10370000000,South Asia
+Guyana,10240000000,South America
+Eswatini,9898000000,Africa
+Eritrea,9702000000,Africa
+Suriname,9606000000,South America
+Bhutan,9029000000,South Asia
+Burundi,8667000000,Africa
+Monaco,7672000000,Europe
+Liberia,7049000000,Africa
+Isle of Man,6792000000,Europe
+Guam,5793000000,Australia - Oceania
+Lesotho,5747000000,Africa
+Jersey,5569000000,Europe
+French Polynesia,5490000000,Australia - Oceania
+Djibouti,5388000000,Africa
+Bermuda,5228000000,North America
+"Gambia, The",5218000000,Africa
+Liechtenstein,4978000000,Europe
+Timor-Leste,4593000000,East Asia/Southeast Asia
+Cayman Islands,4591000000,Central America
+Barbados,4488000000,Central America
+Central African Republic,4483000000,Africa
+Aruba,4158000000,Central America
+Cabo Verde,3944000000,Africa
+Virgin Islands,3872000000,Central America
+Curacao,3856000000,Central America
+Guinea-Bissau,3821000000,Africa
+Guernsey,3465000000,Europe
+Andorra,3327000000,Europe
+Seychelles,2852000000,Africa
+Saint Lucia,2823000000,Central America
+Belize,2734000000,Central America
+Comoros,2603000000,Africa
+Greenland,2413000000,North America
+Antigua and Barbuda,2127000000,Central America
+Gibraltar,2044000000,Europe
+San Marino,2008000000,Europe
+Faroe Islands,2001000000,Europe
+Grenada,1908000000,Central America
+Solomon Islands,1783000000,Australia - Oceania
+Sint Maarten,1436000000,Central America
+Saint Kitts and Nevis,1396000000,Central America
+Saint Vincent and the Grenadines,1380000000,Central America
+Samoa,1285000000,Australia - Oceania
+Northern Mariana Islands,1242000000,Australia - Oceania
+Turks and Caicos Islands,1117000000,Central America
+Vanuatu,945000000,Australia - Oceania
+Dominica,855000000,Central America
+Sao Tome and Principe,853000000,Africa
+Tonga,667000000,Australia - Oceania
+American Samoa,658000000,Australia - Oceania
+Saint Martin,561500000,Central America
+British Virgin Islands,500000000,Central America
+"Micronesia, Federated States of",390000000,Australia - Oceania
+Palau,316000000,Australia - Oceania
+Cook Islands,299900000,Australia - Oceania
+Kiribati,267000000,Australia - Oceania
+Saint Pierre and Miquelon,261300000,North America
+Marshall Islands,227000000,Australia - Oceania
+Falkland Islands (Islas Malvinas),206400000,South America
+Anguilla,175400000,Central America
+Nauru,145000000,Australia - Oceania
+Wallis and Futuna,60000000,Australia - Oceania
+Tuvalu,49000000,Australia - Oceania
+"Saint Helena, Ascension, and Tristan da Cunha",31100000,Africa
+Niue,10010000,Australia - Oceania
+Tokelau,7711583,Australia - Oceania
